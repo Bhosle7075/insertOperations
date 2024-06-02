@@ -15,7 +15,7 @@ public class Test {
 
 		// insert data into database
 		Student student = new Student();
-		student.setName("ram");
+		student.setName("Pranjali");
 		student.setCity("pune");
 		student.setMobile("9595972678");
 		session.save(student);
